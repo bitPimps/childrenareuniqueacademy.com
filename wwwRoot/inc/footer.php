@@ -3,16 +3,16 @@
 				<div class="container py-5">
 					<div class="row">
 						<div class="col-md-4">
-							<h2>About Us</h2>
-							<p>In pharetra, arcu eu tincidunt laoreet, leo risus tempus nisl, id pretium erat dolor sed nunc.</p>
+							<h2>Our Philosophy</h2>
+							<p>At Children Are Unique Academy, we believe in creating positive developmental interactions between children and their surroundings.</p>
 						</div>
 						<div class="col-md-4">
-							<h2>Our Features</h2>
-							<p>In pharetra, arcu eu tincidunt laoreet, leo risus tempus nisl, id pretium erat dolor sed nunc.</p>
+							<h2>Our Mission</h2>
+							<p>Children Are Unique Academy gently encourages children to discover their individual strengths and unique talents.</p>
 						</div>
 						<div class="col-md-4">
-							<h2>Enroll Now</h2>
-							<p>In pharetra, arcu eu tincidunt laoreet, leo risus tempus nisl, id pretium erat dolor sed nunc.</p>
+							<h2>Our Vision</h2>
+							<p>Children Are Unique Academy strives to be a community where caregivers and families work together to nurture happy, healthy, and bright children.</p>
 						</div>
 					</div>
 				</div>
