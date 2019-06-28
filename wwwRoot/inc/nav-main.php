@@ -10,23 +10,17 @@
 						<li class="nav-item<?php if($navMainOn=="Home"){?> active<?php } ?>">
 							<a class="nav-link" href="/caua/index.php">Home<?php if($navMainOn=="Home"){?><span class="sr-only"> (current)</span><?php } ?></a>
 						</li>
-						<li class="nav-item<?php if($navMainOn=="Classes"){?> active<?php } ?>">
-							<a class="nav-link" href="/caua/#">Classes<?php if($navMainOn=="Classes"){?><span class="sr-only"> (current)</span><?php } ?></a>
-						</li>
 						<li class="nav-item<?php if($navMainOn=="For Parents"){?> active<?php } ?>">
 							<a class="nav-link" href="/caua/#">For Parents<?php if($navMainOn=="For Parents"){?><span class="sr-only"> (current)</span><?php } ?></a>
 						</li>
 						<li class="nav-item<?php if($navMainOn=="Enrolling"){?> active<?php } ?>">
 							<a class="nav-link" href="/caua/enrolling/index.php">Enrolling<?php if($navMainOn=="Enrolling"){?><span class="sr-only"> (current)</span><?php } ?></a>
 						</li>
-						<li class="nav-item<?php if($navMainOn=="Fundraising"){?> active<?php } ?>">
-							<a class="nav-link" href="/caua/#">Fundraising<?php if($navMainOn=="Fundraising"){?><span class="sr-only"> (current)</span><?php } ?></a>
-						</li>
 						<li class="nav-item<?php if($navMainOn=="Contact"){?> active<?php } ?>">
 							<a class="nav-link" href="/caua/#">Contact<?php if($navMainOn=="Contact"){?><span class="sr-only"> (current)</span><?php } ?></a>
 						</li>
 						<li class="nav-item<?php if($navMainOn=="About Us"){?> active<?php } ?>">
-							<a class="nav-link" href="/caua/#">About Us<?php if($navMainOn=="About Us"){?><span class="sr-only"> (current)</span><?php } ?></a>
+							<a class="nav-link" href="/caua/about/index.php">About Us<?php if($navMainOn=="About Us"){?><span class="sr-only"> (current)</span><?php } ?></a>
 						</li>
 					</ul>
 				</div>
