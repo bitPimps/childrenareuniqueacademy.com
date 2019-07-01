@@ -28,9 +28,10 @@
 				</div>
 				<div class="row mb-5">
 					<div class="col-md-6">
+						<h4>Ms. Annette</h4>
 						<div class="row">
 							<div class="col-md-4">
-								<img class="img-fluid" src="../img/pages/annette.jpg" alt="Annette">
+								<img class="img-fluid" src="../img/pages/annette.jpg" alt="Ms. Annette">
 							</div>
 							<div class="col-md-8">
 								<p>Hello, my name is Annette and I'm one of the co-founders of Children Are Unique Academy. I've worked with children for over 25 years. I have an AAS Degree in Early Care Education and a BA Degree in Human Services. I've worked with all age groups from 6 weeks to 14 years of age, both in daycare and preschools, in the classrooms and also as a supervisor. Working with children is one of my most rewarding experiences. What amazes me most is seeing my old students who still remember me. There isn't anything I would rather do than work with children and their families&mdash;it's my passion!</p>
@@ -38,21 +39,23 @@
 						</div>
 					</div>
 					<div class="col-md-6">
+						<h4>Ms. Star</h4>
 						<div class="row">
 							<div class="col-md-4">
 								<img class="img-fluid" src="../img/pages/star.jpg" alt="Ms. Star">
 							</div>
 							<div class="col-md-8">
-								<p>Hi, I'm Ms. Star and I have a passion for children. I love to watch children explore and learn new things. It's so amazing watching little children grow up. Being able to enjoy them is wonderful, but it is also amazing to assist the parents. These children are my #1 priority and I'll do any and everything in my power to make sure that they are properly cared for and safe. I have 10 years of experience working with children and am looking forward to many more.</p>
+								<p>Hi, I'm Star and I have a passion for children. I love to watch children explore and learn new things. It's so amazing watching little children grow up. Being able to enjoy them is wonderful, but it is also amazing to assist the parents. These children are my #1 priority and I'll do any and everything in my power to make sure that they are properly cared for and safe. I have 10 years of experience working with children and am looking forward to many more.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="row mb-5">
 					<div class="col-md-6">
+						<h4>Ms. Alexis</h4>
 						<div class="row">
 							<div class="col-md-4">
-								<img class="img-fluid" src="../img/pages/alexis.jpg" alt="Alexis">
+								<img class="img-fluid" src="../img/pages/alexis.jpg" alt="Ms. Alexis">
 							</div>
 							<div class="col-md-8">
 								<p>Hello, my name is Alexis and I've been working at Children Are Unique Academy since March 2018. I will be finishing my degree at Forest Park Community College and taking Early Care Education classes. I have 6+ years of experience working with children and find it rewarding. My passion is working with children, and my goal is to make each child I teach excel before leaving for kindergarten.</p>
@@ -60,9 +63,10 @@
 						</div>
 					</div>
 					<div class="col-md-6">
+						<h4>Ms. Lela</h4>
 						<div class="row">
 							<div class="col-md-4">
-								<img class="img-fluid" src="../img/pages/lela.jpg" alt="Lela">
+								<img class="img-fluid" src="../img/pages/lela.jpg" alt="Ms. Lela">
 							</div>
 							<div class="col-md-8">
 								<p>Hi my name is Lela, and I have 22 years of experience working in childcare. I have a passion for children; they are unique and I like to watch them learn and grow. I take pride in working with all age groups because I know that one day they will become someone important. I love them all and wouldn't want to work in any other field.</p>
@@ -72,9 +76,10 @@
 				</div>
 				<div class="row">
 					<div class="col-md-6">
+						<h4>Ms. Jenny</h4>
 						<div class="row">
 							<div class="col-md-4">
-								<img class="img-fluid" src="../img/pages/jenny.jpg" alt="Jenny">
+								<img class="img-fluid" src="../img/pages/jenny.jpg" alt="Ms. Jenny">
 							</div>
 							<div class="col-md-8">
 								<p>My name is Jenny, I'm 34 years old, and married with four kids. I went to college to pursue a career in the medical field, up until a year ago when I came to Children Are Unique. I became a teacher to contribute to my community in a meaningful way, and teaching is one of the most direct ways to make an impact. What parents can expect out of my two-year-old class is for me to provide fun learning experiences that encourage their young toddler to explore their environment and interact with peers and teachers. Children in my classroom are introduced to different types of learning experiences based on their individual developmental needs and interests.</p>
@@ -82,9 +87,10 @@
 						</div>
 					</div>
 					<div class="col-md-6">
+						<h4>Ms. Gloria</h4>
 						<div class="row">
 							<div class="col-md-4">
-								<img class="img-fluid" src="../img/pages/anonymous.jpg" alt="Gloria">
+								<img class="img-fluid" src="../img/pages/anonymous.jpg" alt="Ms. Gloria">
 							</div>
 							<div class="col-md-8">
 								<p>Hello my name is Gloria, and I've been working at Children Are Unique since they opened in March 2018. I enjoy working with the infants and find it to be so much fun. I've really become attached to all of the babies. In my spare time, I like going to the stores just to find something to buy for the little ones.</p>

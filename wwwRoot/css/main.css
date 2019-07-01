@@ -41,7 +41,8 @@ body {
 }
 form #website {display:none;}
 a {
-	color:#3b196d;
+	/*color:#3b196d;*/
+	font-weight:bold;
 }
 header,h1,h2,h3,h4,h5,h6,.lead {
 	color:#9C27B0;
@@ -139,6 +140,9 @@ h1 small {
 	margin-top:0;
 	padding-bottom:175px;
 	text-shadow: 1px 2px 2px #222;
+}
+.highlight {
+	background-color:rgba(21,21,21,.4);
 }
 /* Jumbotron */
 .jumbotron {
