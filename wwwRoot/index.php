@@ -11,10 +11,12 @@
 	<body>
 		<?php include_once("inc/nav-main.php"); DrawNavMain("Home"); ?>
 		<header class="hero">
-			<div class="container">
-				<h1>Children Are Unique Academy</h1>
-				<div class="sub-heading">
-					<p>Where Children Are #1</p>
+			<div class="highlight">
+				<div class="container">
+					<h1>Children Are Unique Academy</h1>
+					<div class="sub-heading">
+						<p>Where Children Are #1</p>
+					</div>
 				</div>
 			</div>
 		</header>
