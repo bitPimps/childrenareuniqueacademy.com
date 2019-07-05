@@ -98,6 +98,22 @@
 						</div>
 					</div>
 				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<h4>Ms. Tammie</h4>
+						<div class="row">
+							<div class="col-md-4">
+								<img class="img-fluid" src="../img/pages/tammie.jpg" alt="Ms. Tammie">
+							</div>
+							<div class="col-md-8">
+								<p>Hi, my name is Tammie, I am a mother of 4, and I have been in the childcare field for 13 years. I have a Child Development Associate (CDA) certification, and I've always had a passion for working with young children. It delights me to see the smiles on their little faces!</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						
+					</div>
+				</div>
 			</section>
 		</main>
 		<?php include_once("../inc/footer.php"); ?>
