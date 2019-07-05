@@ -113,7 +113,7 @@
 			<section class="container py-5">
 				<div class="row">
 					<div class="col-md-12">
-						<img class="mx-auto d-block w-50" src="/caua/img/logos/children-are-unique-academy.jpg" alt="Children Are Unique Academy">
+						<img class="mx-auto d-block w-50" src="img/logos/children-are-unique-academy.jpg" alt="Children Are Unique Academy">
 					</div>
 				</div>
 			</section>
