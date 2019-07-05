@@ -21,7 +21,7 @@
 				<div class="container">
 					<div class="row pt-3">
 						<div class="col-md-6 contact-info">
-							<p><small>Children Are Unique Academy | <a href="tel:+13143008481">314.300.8481</a> | <a href="mailto:emailme@gmail.com">emailme@gmail.com</a></small></p>
+							<p><small>Children Are Unique Academy | <a href="tel:+13143008481">314.300.8481</a> | <a href="mailto:childrenareuniqueacademy@gmail.com">childrenareuniqueacademy@gmail.com</a></small></p>
 						</div>
 						<div class="col-md-6 copyright">
 							<p><small>Copyright &copy; <?php echo date("Y") ?> Children Are Unique Academy - All Rights Reserved.</small></p>

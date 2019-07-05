@@ -106,7 +106,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			$mail->Password = "riscjxmdgxnteamr";
 			$mail->setFrom('webcontact@iconagility.com', 'Children Are Unique Academy Website');
 			$mail->addReplyTo('webcontact@iconagility.com', 'Children Are Unique Academy Website');
-			$mail->addAddress('asmoote11@yahoo.com', 'Children Are Unique Academy');
+			$mail->addAddress('childrenareuniqueacademy@gmail.com', 'Children Are Unique Academy');
 			//$mail->addAddress('alyssa.hamilton@iconagility.com', 'Alyssa Hamilton');
 			//$mail->addAddress('scott.lix@iconagility.com', 'Icon Website');
 			$mail->Subject = 'Children Are Unique Academy Website Contact';

@@ -21,7 +21,7 @@
 					<div class="col-md-4">
 						<h3>Phone &amp; Email</h3>
 						<p>314-300-8481<br>
-							<a href="mailto:asmoote11@yahoo.com">asmoote11@yahoo.com</a></p>
+							<a href="mailto:childrenareuniqueacademy@gmail.com">childrenareuniqueacademy@gmail.com</a></p>
 						<h3>Hours</h3>
 						<p>Sunday - Saturday<br>
 							6:00 am - 9:00 pm</p>
