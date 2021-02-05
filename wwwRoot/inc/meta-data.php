@@ -1,3 +1,12 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9Z8721H6CZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9Z8721H6CZ');
+</script>
 <meta http-equiv="x-dns-prefetch-control" content="on">
 		<link rel="dns-prefetch" href="//ajax.googleapis.com" />
 		<link rel="dns-prefetch" href="//fonts.googleapis.com" />
