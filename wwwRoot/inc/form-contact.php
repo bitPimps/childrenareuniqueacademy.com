@@ -103,7 +103,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 													  )
 									   );
 			$mail->Username = "webcontact@iconatg.com";
-			$mail->Password = "riscjxmdgxnteamr";
+			$mail->Password = "ceobybnutsbxomqt";
 			$mail->setFrom('webcontact@iconagility.com', 'Children Are Unique Academy Website');
 			$mail->addReplyTo('webcontact@iconagility.com', 'Children Are Unique Academy Website');
 			$mail->addAddress('childrenareuniqueacademy@gmail.com', 'Children Are Unique Academy');
